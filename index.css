@@ -1543,7 +1543,7 @@
     padding: 2px 6px 3px;
     border: 1px solid #000;
     border-radius: 24px;
-    color: yellow;
+    color: white;
     font-weight: 400;
     text-decoration: none;
     cursor: pointer;
@@ -1555,7 +1555,7 @@
   }
   
   .text-regular.bold.info-link.highlight {
-    background-color: #f4ff7a;
+    background-color: darkred;
   }
   
   .text-regular.bold.info-link.highlight:hover {
@@ -1670,7 +1670,7 @@
   }
   
   .text-huge {
-    font-size: 16vw;
+    font-size: 10vw;
     line-height: 0.85;
   }
   
@@ -2955,7 +2955,7 @@
     }
   
     .text-huge {
-      font-size: 30px;
+      font-size: 20px;
     }
   
     .text-semi {
